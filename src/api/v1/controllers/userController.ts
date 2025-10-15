@@ -3,7 +3,7 @@ import { Request, Response, NextFunction } from "express";
 import { UserRecord } from "firebase-admin/auth";
 
 // Internal imports
-import { auth } from "../../../config/firebaseConfig";
+import { auth } from "../../../../config/firebaseConfig";
 import { successResponse } from "../models/responseModel";
 import { HTTP_STATUS } from "../../../constants/httpConstants";
 
