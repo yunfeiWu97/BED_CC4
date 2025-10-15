@@ -5,3 +5,4 @@ logs/
 *.env
 firebase-service-account*.json
 **/firebase-service-account*.json
+codingchallenge4-19767-firebase-adminsdk-fbsvc-b0753f2b65.json
